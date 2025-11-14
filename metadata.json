@@ -1,0 +1,7 @@
+{
+  "name": "Copy of USA F-1 Visa Prep by EEC V3",
+  "description": "An AI-powered application to help students prepare for the USA F-1 visa interview. It offers personalized question generation, model answers, and real-time feedback on practice sessions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
